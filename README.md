@@ -129,6 +129,10 @@ Local State.backup-chrome-location-guardian-YYYYMMDD-HHMMSS
 
 To restore manually, quit Chrome and replace `Local State` with the backup.
 
+## License
+
+MIT. See [LICENSE](LICENSE).
+
 ---
 
 # Chrome Location Guardian 中文
@@ -261,3 +265,7 @@ Local State.backup-chrome-location-guardian-YYYYMMDD-HHMMSS
 ```
 
 如需手动恢复，请先退出 Chrome，然后用备份文件替换 `Local State`。
+
+## 许可证
+
+MIT。详见 [LICENSE](LICENSE)。
