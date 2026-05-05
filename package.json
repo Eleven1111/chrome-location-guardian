@@ -1,0 +1,31 @@
+{
+  "name": "chrome-location-guardian",
+  "version": "1.0.0",
+  "description": "Keep Chrome Local State region fields patched to US across Chrome updates on macOS, Windows, and Linux.",
+  "license": "MIT",
+  "author": "meta11 <Eleven1111@users.noreply.github.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eleven1111/chrome-location-guardian.git"
+  },
+  "homepage": "https://github.com/Eleven1111/chrome-location-guardian#readme",
+  "bugs": {
+    "url": "https://github.com/Eleven1111/chrome-location-guardian/issues"
+  },
+  "bin": {
+    "chrome-location-guardian": "./bin/chrome-location-guardian.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "bin",
+    "src",
+    "install",
+    "README.md",
+    "LICENSE"
+  ]
+}
